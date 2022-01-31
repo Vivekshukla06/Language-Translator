@@ -1,0 +1,4 @@
+1. Googletrans : It is a free python library that implement Google Translate API.
+2. speech_recognition : It is a python Library for performing speech recognition, with support for several engines and APIs, online and offline.
+3. gtts : It is a Python library and CLI tool to interface with Google Translate text-to-speech API.
+4. Playsound : The playsound module is a cross platform module that can play audio files.
